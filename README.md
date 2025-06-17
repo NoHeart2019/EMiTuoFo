@@ -2,5 +2,5 @@
 
 ![简介](Index.png)
 
-![常州球迷](FootBall.gif)
+![常州球迷](football.gif)
 
